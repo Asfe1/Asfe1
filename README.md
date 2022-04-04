@@ -11,6 +11,6 @@ Skills: C / javascript  / HTML / CSS / Django / php / Adobe Primer pro / Microso
 - 🌱 I’m currently learning Django / JavaScript / Bootstrap
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
--
+
 
 
