@@ -1,14 +1,19 @@
 ### Hi, I am Asfe All Arafath 👋
 
 
-I am a student at United International university . I lived in Dhaka now and i am from Dinajpur .
+I am a student at United International university . I lived in Dhaka . I love technology and love to know how technology works. I have a huge interest in Programming and Programming languages. Nowadays I am working with HTML, CSS, Javascript, ES6, DOM, Rest API, React, React Router, and other modern programming languages and frameworks. By using these programming languages and frameworks I make some projects for my practice and skill improvement purpose.
 
-Skills: C / javascript  / HTML / CSS / Django / php / Adobe Primer pro / Microsoft Excel 
 
-- 🔭 I’m currently working on United International University 
-- 🌱 I’m currently learning Django / JavaScript / Bootstrap
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+#
+## Skills
+- Programming Languages: C, C++, C#, Java, Python, Assembly, JavaScript, JavaScript(ES6). 
+- Web Technologies: Html, Html5, CSS, CSS3, JavaScript, , React authentication, PHP , rest Api.
+- Framework: Bootstrap, Tailwind, React, Laravel(basic).
+- Database: MySQL.
+- Tools: Adobe Photoshop, Adobe illustrator. 
+- Software: Jira, Netbeans, Visual Studio, CodeBlocks.
+- Operating System: Linux server (Ubuntu), Windows
+#
 
 
 
