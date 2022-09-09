@@ -1,4 +1,4 @@
-### Hi, I am Asfe All Arafath 👋
+### Hi, I am Asfe Al Arafath 👋
 
 
 I am a student at United International university . I lived in Dhaka . I love technology and love to know how technology works. I have a huge interest in Programming and Programming languages. Nowadays I am working with HTML, CSS, Javascript, ES6, DOM, Rest API, React, React Router, and other modern programming languages and frameworks. By using these programming languages and frameworks I make some projects for my practice and skill improvement purpose.
